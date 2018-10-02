@@ -54,7 +54,7 @@ main {
   overflow: auto;
   padding:0.625rem;
 }
-.text--by--image* {max-width: 65%;}
+.text--by--image {max-width: 65%;}
 
 .text--scroll {max-height: 232px;}
 .text--by--image--with--scroll {max-height: 245px;}
